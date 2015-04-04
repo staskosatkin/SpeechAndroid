@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+.idea
+SpeechAndriod.iml
+project.properties
